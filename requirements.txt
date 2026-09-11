@@ -1,0 +1,26 @@
+# Core data handling
+pandas
+numpy
+
+# Dataset download
+kagglehub
+opendatasets
+wget
+
+# Deep learning frameworks
+torch
+tensorflow
+
+# Transformers (BERT)
+transformers
+
+# GPT-2 fine-tuning / generation
+gpt-2-simple
+
+# Evaluation
+scikit-learn
+nltk
+
+# Visualization
+matplotlib
+seaborn
