@@ -77,11 +77,3 @@ The goal isn't to crown a "best" model — it's to surface the practical tradeof
 - **A perfect classification score should trigger scrutiny, not celebration.** It's a signal to check for data leakage or an overly easy validation split before trusting the model.
 
 ---
-
-## References
-
-- [GeeksforGeeks — Explanation of the BERT Model in NLP](https://www.geeksforgeeks.org/nlp/explanation-of-bert-model-nlp/)
-- [BERT Tutorial (Colab)](https://colab.research.google.com/github/ludwigwittgenstein2/Research/blob/master/BERT_Tutorial.ipynb/#scrollTo=f3BB-iTyQ643)
-- [Maestro Labs — Beginner's Guide to NLP with GPT](https://www.maestrolabs.com/blog-detail/beginners-guide-to-understanding-natural-language-processing-with-gpt)
-- [Medium (Kanerika) — How to Build Powerful GPT Models for NLP](https://medium.com/@kanerika/how-to-build-powerful-gpt-models-for-nlp-9eb6605bc221)
-- [GeeksforGeeks — Generative Adversarial Network (GAN)](https://www.geeksforgeeks.org/deep-learning/generative-adversarial-network-gan/)
